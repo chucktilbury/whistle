@@ -1,7 +1,7 @@
 # Whistle
 This a model of an Irish TinWhistle / Penny Whistle / Flute / etc. Intended for 3D printing. It works great on my printer, which is a Creality K1-MAX using Crealyit PLA filament.
 
-* Calculations and measurements are sone with Bracker's calculator found [here](https://music.bracker.uk/pub/html/Workshop/Whistle-Calculator.html)
+* Calculations and measurements are done with Bracker's calculator found [here](https://music.bracker.uk/pub/html/Workshop/Whistle-Calculator.html)
 * Models are created with FreeCAD found [here](https://www.freecad.org/)
 
 ## Print
