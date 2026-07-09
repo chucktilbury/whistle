@@ -23,7 +23,7 @@ Whistles with a 2mm wall. These are focused and louder. They are a WIP.
 * d-whistle-6-hole-body-v2.stl
 * d-whistle-fipple-v2.stl
 
-Whistles to imperial measurement, such as We might fabricate here in the US from readily available materials. (i.e. 5/8" acetyl round)
+Whistles to imperial measurement, such as we might fabricate here in the US from readily available materials. (i.e. 5/8" acetyl round)
 
 * d-whistle-6-hole-body-v3.stl
 * d-whistle-fipple-v3.stl
